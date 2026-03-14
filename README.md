@@ -1,24 +1,97 @@
-# 🏥 HealthMate - Personal Health Assistant
+# HealthMate – Personal Health Assistant
 
-A Flutter mobile app that helps patients manage daily medicines, doctor appointments, and health records.
+## Project Overview
 
-## ✨ Features
+HealthMate is a mobile application developed using Flutter that helps individuals manage their daily health activities efficiently. The application allows users to track medicines, schedule doctor appointments, and maintain personal health records in an organized manner.
 
-- 💊 **Medicine Management** - Add, track, and delete medicines
-- 📅 **Appointment Scheduling** - Doctor appointments with reminders  
-- 💾 **Data Persistence** - Local storage using Hive
-- 🎨 **Beautiful UI** - Material Design 3
-- 📱 **Cross-Platform** - Works on Android, iOS, Web
+This project demonstrates mobile application development using Flutter along with local data persistence for storing user data securely.
 
-## 🚀 Getting Started
+---
 
-### Prerequisites
-- Flutter SDK 3.0+
-- Dart 3.0+
+## Application Preview
 
-### Installation
-```bash
+Below are sample screenshots of the application interface.
+
+![Home Screen](screenshots/home.png)
+
+![Medicine Manager](screenshots/medicine.png)
+
+![Appointments](screenshots/appointments.png)
+
+---
+
+## Key Features
+
+- Medicine management for adding, tracking, and removing medicines
+- Appointment scheduling for doctor visits
+- Local data storage using Hive database
+- Structured user interface based on Material Design principles
+- Cross-platform compatibility for Android, iOS, and Web
+
+---
+
+## Technology Stack
+
+Framework  
+Flutter
+
+Programming Language  
+Dart
+
+Database  
+Hive (Local Storage)
+
+---
+
+## Project Structure
+
+```
+healthmate-flutter
+│
+├── lib/
+├── assets/
+├── pubspec.yaml
+└── main.dart
+```
+
+---
+
+## Installation and Setup
+
+Clone the repository
+
+```
 git clone https://github.com/yourusername/healthmate-flutter.git
 cd healthmate-flutter
+```
+
+Install dependencies
+
+```
 flutter pub get
+```
+
+Run the application
+
+```
 flutter run
+```
+
+---
+
+## Learning Outcomes
+
+This project demonstrates:
+
+- Flutter mobile application development
+- Managing application data using Hive local database
+- Building structured and maintainable Flutter applications
+- Implementing responsive UI using Material Design
+
+---
+
+## Author
+
+Mithanya Murugesan  
+Engineering Student  
+Python and Full Stack Development
