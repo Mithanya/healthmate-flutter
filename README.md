@@ -12,11 +12,11 @@ This project demonstrates mobile application development using Flutter along wit
 
 Below are sample screenshots of the application interface.
 
-![Home Screen](screenshots/home.png)
+[Home Screen](screenshots/home.png)
 
-![Medicine Manager](screenshots/medicine.png)
+[Medicine Manager](screenshots/medicine.png)
 
-![Appointments](screenshots/appointments.png)
+[Appointments](screenshots/appointments.png)
 
 ---
 
